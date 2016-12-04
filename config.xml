@@ -7,10 +7,10 @@ version   = "1.0.0">
 <description>
 Cep telefonları için Hello World uygulaması.
 </description>
-<author href="http://www.darondedeoglu.com" email="daron@darondedeoglu.com">Daron Dedeoğlu</author>
-<icon src="images/icon.png" />
-<icon src="images/bbicon.jpg" gap:platform="blackberry" />
-<gap:splash src="images/splash.png" />
+<author href="http://www.birbu.com" email="volkan@birbu.com">Volkan Celiloğlu</author>
+<icon src="http://www.birbu.com/vr/images/icon.png" />
+<icon src="http://www.birbu.com/vr/images/bbicon.jpg" gap:platform="blackberry" />
+<gap:splash src="http://www.birbu.com/vr/images/splash.png" />
 <access origin="*" />
 <preference name="disable-cursor" value="true" />
 </widget>
