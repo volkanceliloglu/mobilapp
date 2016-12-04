@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <widget xmlns = "http://www.w3.org/ns/widgets"
 xmlns:gap = "http://phonegap.com/ns/1.0"
-id        = "com.helloworld.helloworld"
+id        = "com.360.vr"
 version   = "1.0.0">
-<name>Hello World! Mobil Uygulaması</name>
-<description>
-Cep telefonları için Hello World uygulaması.
-</description>
+<name>Sanal Gerçeklik - VR</name>
+<description>360 Derece Sanal Gerçeklik Uygulaması</description>
 <author href="http://www.birbu.com" email="volkan@birbu.com">Volkan Celiloğlu</author>
 <icon src="http://www.birbu.com/vr/images/icon.png" />
 <icon src="http://www.birbu.com/vr/images/bbicon.jpg" gap:platform="blackberry" />
