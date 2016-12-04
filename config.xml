@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <widget xmlns = "http://www.w3.org/ns/widgets"
 xmlns:gap = "http://phonegap.com/ns/1.0"
-id        = "com.360vr.360vr"
+id        = "com.sanalgerceklik.sanalgerceklik"
 version   = "1.0.0">
 <name>Sanal Gerçeklik - VR</name>
 <description>360 Derece Sanal Gerçeklik Uygulaması</description>
