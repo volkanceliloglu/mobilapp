@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+xmlns:gap = "http://phonegap.com/ns/1.0"
+id        = "com.helloworld.helloworld"
+version   = "1.0.0">
+<name>Hello World! Mobil Uygulaması</name>
+<description>
+Cep telefonları için Hello World uygulaması.
+</description>
+<author href="http://www.darondedeoglu.com" email="daron@darondedeoglu.com">Daron Dedeoğlu</author>
+<icon src="images/icon.png" />
+<icon src="images/bbicon.jpg" gap:platform="blackberry" />
+<gap:splash src="images/splash.png" />
+<access origin="*" />
+<preference name="disable-cursor" value="true" />
+</widget>
